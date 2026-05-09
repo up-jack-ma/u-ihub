@@ -1,3 +1,4 @@
+IP-CIDR,34.150.125.241/32,no-resolve
 DOMAIN-SUFFIX,ledger-hubapi.uqpay.com
 DOMAIN-SUFFIX,commhubapi.uqpay.com
 DOMAIN-SUFFIX,riskapiv2.uqpay.com
@@ -8,4 +9,3 @@ DOMAIN-SUFFIX,ihubapi.uqpay.com
 DOMAIN-SUFFIX,ukpsq3.apse1.cache.amazonaws.com
 DOMAIN-SUFFIX,git.uqpaytech.com
 DOMAIN-KEYWORD,uat-aurira-rds-write-nlb-48b0946d6c4c1db2.elb.ap-southeast-1
-IP-CIDR,34.150.125.241/32,no-resolve
