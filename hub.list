@@ -12,3 +12,4 @@ DOMAIN-KEYWORD,uat-aurira-rds-write-nlb-48b0946d6c4c1db2.elb.ap-southeast-1
 IP-CIDR,34.150.125.241/32,no-resolve
 IP-CIDR,3.1.14.92/32,no-resolve
 IP-CIDR,47.130.176.206/32,no-resolve
+IP-CIDR,34.92.209.184/32,no-resolve
