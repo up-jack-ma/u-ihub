@@ -13,5 +13,6 @@ DOMAIN-KEYWORD,uat-global-cluster-write-nlb-6d3dd0d6c14dd6cf.elb.ap-southeast-1
 DOMAIN-KEYWORD,aurora-rds-uat-write.c5gwkmokkksk.ap-southeast-1
 IP-CIDR,34.150.125.241/32,no-resolve
 IP-CIDR,3.1.14.92/32,no-resolve
+IP-CIDR,18.142.8.62,no-resolve
 IP-CIDR,47.130.176.206/32,no-resolve
 IP-CIDR,34.92.209.184/32,no-resolve
