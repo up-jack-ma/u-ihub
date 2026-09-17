@@ -1,0 +1,10 @@
+#!name=Lark直连
+#!desc=Description Here
+
+[Rule]
+DOMAIN-SUFFIX,larksuite.com,DIRECT
+DOMAIN-SUFFIX,larksuitecdn.com,DIRECT
+DOMAIN-SUFFIX,feishucdn.com,DIRECT
+DOMAIN-SUFFIX,byteoversea.com,DIRECT
+DOMAIN-SUFFIX,bytedapm.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
