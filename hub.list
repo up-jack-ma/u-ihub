@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ihub.uqpay.com
 DOMAIN-SUFFIX,ihubapi.uqpay.com
 DOMAIN-SUFFIX,ukpsq3.apse1.cache.amazonaws.com
 DOMAIN-SUFFIX,git.uqpaytech.com
+DOMAIN-SUFFIX,gitv3.uqpaytech.com
 DOMAIN-KEYWORD,uat-aurira-rds-write-nlb-48b0946d6c4c1db2.elb.ap-southeast-1
 DOMAIN-KEYWORD,uat-global-cluster-write-nlb-6d3dd0d6c14dd6cf
 DOMAIN-KEYWORD,aurora-rds-uat-write.c5gwkmokkksk.ap-southeast-1
