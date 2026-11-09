@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,ahubapi.uqpay.com
 DOMAIN-SUFFIX,ihub.uqpay.com
 DOMAIN-SUFFIX,ihubapi.uqpay.com
 DOMAIN-SUFFIX,ukpsq3.apse1.cache.amazonaws.com
+DOMAIN-SUFFIX,hubapi-sandbox.uqpaytech.com
+DOMAIN-SUFFIX,hub-sandbox.uqpaytech.com
 DOMAIN-SUFFIX,git.uqpaytech.com
 DOMAIN-SUFFIX,gitv3.uqpaytech.com
 DOMAIN-SUFFIX,amazonaws.com
