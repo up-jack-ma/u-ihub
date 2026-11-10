@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,hubapi-sandbox.uqpaytech.com
 DOMAIN-SUFFIX,hub-sandbox.uqpaytech.com
 DOMAIN-SUFFIX,hubv3-testing.uqpaytech.com
 DOMAIN-SUFFIX,hubapiv3-testing.uqpaytech.com
+DOMAIN-SUFFIX,hub-testing.uqpaytech.com
+DOMAIN-SUFFIX,hubapi-testing.uqpaytech.com
 DOMAIN-SUFFIX,git.uqpaytech.com
 DOMAIN-SUFFIX,gitv3.uqpaytech.com
 DOMAIN-SUFFIX,amazonaws.com
